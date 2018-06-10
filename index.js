@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function destructivelyAppendKitten(name){
   
   kittens.push("Ralph")
@@ -59,3 +60,6 @@ function prependKitten(name){
 
 
 
+=======
+function de
+>>>>>>> 1d1d34b85ee5b5b2a3e9594f1ce54c925746b06b
